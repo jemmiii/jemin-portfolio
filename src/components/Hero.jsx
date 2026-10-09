@@ -71,7 +71,7 @@ export default function Hero() {
           </a>
 
           <a
-            href="https://drive.google.com/file/d/11Bl6k6NV6xK2MPxrgPR0ghoSy96I5xfe/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1UeNGtLsWJ4VPaNctZNSEUWcpqDvXXqKV/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >
