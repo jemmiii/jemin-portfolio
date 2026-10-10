@@ -1,5 +1,5 @@
 # live demo
-https://jeminpatidar-portfolio.vercel.app/
+https://jemin-portfolio-fawn.vercel.app/
 
 # React + Vite
 
